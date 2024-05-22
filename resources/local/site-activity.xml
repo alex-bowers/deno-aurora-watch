@@ -1,0 +1,105 @@
+<site_activity api_version="0.2.5" project_id="project:AWN" site_id="site:AWN:SUM" site_url="http://aurorawatch-api.lancs.ac.uk/0.2.5/project/awn/sum.xml">
+<lower_threshold status_id="green">0</lower_threshold>
+<lower_threshold status_id="yellow">50</lower_threshold>
+<lower_threshold status_id="amber">100</lower_threshold>
+<lower_threshold status_id="red">200</lower_threshold>
+<updated>
+<datetime>2024-05-21T14:54:32+0000</datetime>
+</updated>
+<activity status_id="green">
+<datetime>2024-05-20T15:00:00+0000</datetime>
+<value>13.9</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T16:00:00+0000</datetime>
+<value>14.5</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T17:00:00+0000</datetime>
+<value>14.0</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T18:00:00+0000</datetime>
+<value>13.1</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T19:00:00+0000</datetime>
+<value>17.7</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T20:00:00+0000</datetime>
+<value>7.2</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T21:00:00+0000</datetime>
+<value>4.6</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T22:00:00+0000</datetime>
+<value>8.4</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-20T23:00:00+0000</datetime>
+<value>10.5</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T00:00:00+0000</datetime>
+<value>12.8</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T01:00:00+0000</datetime>
+<value>13.6</value>
+</activity>
+<activity status_id="red">
+<datetime>2024-05-21T02:00:00+0000</datetime>
+<value>201.8</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T03:00:00+0000</datetime>
+<value>9.9</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T04:00:00+0000</datetime>
+<value>17.9</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T05:00:00+0000</datetime>
+<value>33.6</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T06:00:00+0000</datetime>
+<value>32.9</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T07:00:00+0000</datetime>
+<value>29.5</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T08:00:00+0000</datetime>
+<value>22.7</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T09:00:00+0000</datetime>
+<value>19.0</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T10:00:00+0000</datetime>
+<value>31.9</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T11:00:00+0000</datetime>
+<value>25.6</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T12:00:00+0000</datetime>
+<value>40.0</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T13:00:00+0000</datetime>
+<value>35.6</value>
+</activity>
+<activity status_id="green">
+<datetime>2024-05-21T14:00:00+0000</datetime>
+<value>32.9</value>
+</activity>
+</site_activity>

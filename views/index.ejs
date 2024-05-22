@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuroraWatch Alerts</title>
+</head>
+<body>
+    <h1>AuroraWatch Alerts</h1>
+    <hr>
+    <div class="alerts">
+        <% it.alerts.forEach(function(alert){ %>
+            <div class="alerts--single-container">
+                <h2><%= new Date(alert.datetime).toUTCString() %></h2>
+                <p>Status: <b><%= alert.status %></b></p>
+                <p>Value: <b><%= alert.value %></b></p>
+            </div>
+            <hr>
+        <% }) %>
+    </div>
+</body>
+</html>
